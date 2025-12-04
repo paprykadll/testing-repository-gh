@@ -1,4 +1,4 @@
 # testing-repository-gh
 
 Testiowy Tekst do ćwiczenia commitów!
-First Branch
+<h2>SECOND BRANCH</h2> :)
